@@ -6,6 +6,9 @@
 <h2 align='center'>
  :video_game: I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!
 </h2>
+
+Here's my resume: [cvMateohernandez.pdf](https://github.com/Mate444/Mate444/files/6533262/cvMateohernandez.pdf)
+
  
 🔭 I'm currently learning TypeScript 
 
@@ -30,19 +33,19 @@ Technologies:
 
 My projects: 
  
-  <h3> 🍕 Recipes Individual Project </h3>
+  <h3> 🍕 Recipes Individual Project: https://github.com/Mate444/FoodRecipes </h3>
 <p>
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png"></a>
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png"></a>
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png"></a>
 </p>
- <h3> :partly_sunny: Weather-App </h3>
+ <h3> :partly_sunny: Weather-App: https://github.com/Mate444/weather-app </h3>
 
 <p> 
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
  </p>
 
-<h3> :game_die: DiceStarter </h3>
+<h3> :game_die: DiceStarter: https://github.com/Mate444/DiceStarter/tree/dev </h3>
 
 <p> 
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119351181-952f4d00-bc76-11eb-9bfa-301e53056739.png"></a>
