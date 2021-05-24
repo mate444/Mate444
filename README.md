@@ -42,11 +42,21 @@ My projects:
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
  </p>
 
-📫 Contact me at
+<h3> :game_die: DiceStarter </h3>
+
+<p> 
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119351181-952f4d00-bc76-11eb-9bfa-301e53056739.png"></a>
+ <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119351190-9791a700-bc76-11eb-83f4-f923a313d114.png"></a>
+ <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119351195-995b6a80-bc76-11eb-8375-9b7c5084b6d5.png"></a>
+ 
+ </p>
+
+<h6> 📫 Contact me at </h6>
 <span >
 <a href="https://www.linkedin.com/in/mateo-hernandez-7538611b9/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:mateoeo23@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
+ <a><img src='https://img.shields.io/badge/+5402645601010-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
 <!--
 **Mate444/Mate444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
