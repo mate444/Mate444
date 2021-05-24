@@ -1,26 +1,14 @@
 ### Welcome to my profile page
 
+![wallpaper-benja](https://user-images.githubusercontent.com/73136132/119343063-4ed4f080-bc6c-11eb-821d-3bba9a187f50.png)
+
  I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!.
 
 🔭 I'm currently working on DiceStarter.. 
 
 :computer: Technologies:
 
-('https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white')
-('https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black')
-('https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white')
-('https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white')
-('https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white')
-('https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white')
-('https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white')
-('https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB')
-('https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
- :raising_hand: Contact me at
- 
- [(<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>)] (<a>https://www.linkedin.com/in/mateo-hernandez-7538611b9/</a>)
- <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
- <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>]
 <!--
 **Mate444/Mate444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
