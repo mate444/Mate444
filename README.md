@@ -3,25 +3,44 @@
 
 ![wallpaper-benja png-2](https://user-images.githubusercontent.com/73136132/119343443-d91d5480-bc6c-11eb-969e-c49f992062b8.png)
 
- I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!.
-
-🔭 I'm currently working on DiceStarter.. 
+<h2 align='center'>
+ :video_game: I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!
+</h2>
+ 
+🔭 I'm currently learning TypeScript 
 
 :computer: Technologies:
 
-My projects: 
+Technologies: 
 
 <p>
-  <a><img src="(https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png"></a>
-  <a><img src="https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png"></a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <br />
 </p>
+
+My projects: 
+ 
+  <h3> 🍕 Recipes Individual Project </h3>
 <p>
-![Screenshot (72)](https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png)
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png"></a>
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png"></a>
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png"></a>
+</p>
+ <h3> :partly_sunny: Weather-App </h3>
 
-![Screenshot (70)](https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png)
-
-![Screenshot (71)](https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png)
+<p> 
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
+ </p>
 
 📫 Contact me at
 <span >
