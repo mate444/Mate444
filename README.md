@@ -1,8 +1,8 @@
 ### Welcome to my profile page
 
- I'm Mateo Hernandez, a Full Stack Developer Student.
+ I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!.
 
- These are the techs I've learned so far:
+I'm currently learning TypeScript...https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 
 
 
