@@ -2,7 +2,7 @@
 
  I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!.
 
-I'm currently learning TypeScript...https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+I'm currently learning TypeScript.. [<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />]
 
 
 
