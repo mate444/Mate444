@@ -11,8 +11,16 @@
 
 My projects: 
 
+<p>
+  <a><img src="(https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png"></a>
+</p>
+<p>
+![Screenshot (72)](https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png)
+
 ![Screenshot (70)](https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/73136132/119344028-8d1edf80-bc6d-11eb-98c1-42cd2b8ccb4b.png)
+
 ![Screenshot (71)](https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png)
 
 📫 Contact me at
