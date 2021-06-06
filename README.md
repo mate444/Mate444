@@ -9,9 +9,6 @@
 
 - :email: Here's my resume: [cvMateohernandez.pdf](https://github.com/Mate444/Mate444/files/6533262/cvMateohernandez.pdf)
 
- 
-- 🔭 I'm currently learning TypeScript 
-
 <!--
 :computer: Technologies:
 Technologies: 
