@@ -43,7 +43,7 @@ My projects:
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
  </p>
  
- - <h3> :game_die: DiceStarter: https://github.com/Mate444/DiceStarter/tree/dev </h3>
+ - <h3> :game_die: DiceStarter: https://github.com/IamCocoDev/DiceStarter </h3>
 
 <p> 
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119351181-952f4d00-bc76-11eb-9bfa-301e53056739.png"></a>
