@@ -3,7 +3,7 @@
 ![wallpaper-benja png-2](https://user-images.githubusercontent.com/73136132/119343443-d91d5480-bc6c-11eb-969e-c49f992062b8.png)
 
 <h2 align='center'>
- 💻 I'm Mateo Hernandez, a Full Stack Developer Student, a Gamer and a Writer!
+ 💻 I'm Mateo Hernandez, a Full Stack Developer, a Gamer and a Writer!
 </h2>
 
 - :email: Here's my resume: [cvMateoHernandez.pdf](https://github.com/Mate444/Mate444/files/6655877/cvMateoHernandez.pdf)
@@ -32,8 +32,8 @@ My projects:
  - <h3> 🍕 Recipes Individual Project: https://github.com/Mate444/FoodRecipes </h3>
 <p>
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119345830-ca846c80-bc6f-11eb-83d2-f74b6262ccd6.png"></a>
-  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344018-8b551c00-bc6d-11eb-86a6-66fd3acc8fc9.png"></a>
-  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119344038-8e500c80-bc6d-11eb-9dd3-fcc36442eeb0.png"></a>
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/122136917-d819b600-ce19-11eb-9068-d238d82022a4.png"></a>
+  <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/122136932-dea82d80-ce19-11eb-8e08-6218677c1c96.png"></a>
 </p>
 
  - <h3> ⛅ Weather-App: https://github.com/Mate444/weather-app </h3>
@@ -41,7 +41,9 @@ My projects:
 <p> 
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
  </p>
- 
+ ![Screenshot (87)](https://user-images.githubusercontent.com/73136132/122136917-d819b600-ce19-11eb-9068-d238d82022a4.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/73136132/122136932-dea82d80-ce19-11eb-8e08-6218677c1c96.png)
+
  - <h3> :game_die: DiceStarter: https://github.com/IamCocoDev/DiceStarter </h3>
 
 <p> 
