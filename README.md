@@ -41,8 +41,8 @@ My projects:
 <p> 
   <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/119349432-8d6ea900-bc74-11eb-99bb-a388dfc01502.png"></a>
  </p>
- ![Screenshot (87)](https://user-images.githubusercontent.com/73136132/122136917-d819b600-ce19-11eb-9068-d238d82022a4.png)
-![Screenshot (86)](https://user-images.githubusercontent.com/73136132/122136932-dea82d80-ce19-11eb-8e08-6218677c1c96.png)
+ <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/122136917-d819b600-ce19-11eb-9068-d238d82022a4.png"></a>
+ <a><img height="250" width="400" src="https://user-images.githubusercontent.com/73136132/122136932-dea82d80-ce19-11eb-8e08-6218677c1c96.png"><a/>
 
  - <h3> :game_die: DiceStarter: https://github.com/IamCocoDev/DiceStarter </h3>
 
@@ -59,7 +59,6 @@ My projects:
 <a href="mailto:mateoeo23@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
  <a><img src='https://img.shields.io/badge/+5402645601010-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mate444)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Mate444/Mate444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
