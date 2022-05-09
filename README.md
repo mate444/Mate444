@@ -59,6 +59,7 @@ My projects:
 <a href="mailto:mateoeo23@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
  <a><img src='https://img.shields.io/badge/+5402645601010-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mate444)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Mate444/Mate444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
