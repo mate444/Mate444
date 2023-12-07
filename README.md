@@ -6,7 +6,7 @@
  💻 I'm Mateo Hernandez, a Full Stack Developer, a Gamer and a Writer!
 </h2>
 
-- :email: Here's my resume: [cvMateoHernandez.pdf](https://github.com/Mate444/Mate444/files/6655877/cvMateoHernandez.pdf)
+- 📨 Here's my resume: [cvMateoHernandez.pdf](https://github.com/mate444/Mate444/files/13602280/CV.EN.09-2023.pdf)
 
 <!--
 :computer: Technologies:
