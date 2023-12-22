@@ -3,7 +3,7 @@
 ![wallpaper-benja png-2](https://user-images.githubusercontent.com/73136132/119343443-d91d5480-bc6c-11eb-969e-c49f992062b8.png)
 
 <h2 align='center'>
- 💻 I'm Mateo Hernandez, a Full Stack Developer, a Gamer and a Writer!
+ 💻 I'm Mateo Hernandez, a Full Stack Developer!
 </h2>
 
 - 📨 Here's my resume: [cvMateoHernandez.pdf](https://github.com/mate444/Mate444/files/13602280/CV.EN.09-2023.pdf)
